@@ -4,6 +4,8 @@
 
 > A console app that will help you to keep a record of different types of things you own: books, music albums, and games. The data will be stored in JSON files but you will also find a database with tables structure analogical to the program's class structure.
 
+<img width="737" alt="image" src="https://user-images.githubusercontent.com/106079814/197050523-e6648483-32bf-4e88-9dc7-660a3b17f485.png">
+
 ## Built With
 
 - Ruby
